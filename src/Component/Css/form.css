@@ -1,0 +1,38 @@
+.form-conatiner{
+    /* border: 2px solid red; */
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    user-select: none;
+}
+.errorMsg{
+    /* border: 2px solid red; */
+    color: white;
+    background-color: coral;
+    width: 28vw;
+    text-align: center;
+    padding: 0.5rem;
+    font-weight: bold;
+    font-size: 1rem;
+
+}
+.update-Btn{
+    margin: 1rem;
+}
+.form-div{
+    /* border: 2px solid red; */
+    width: 80vw;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+
+.form-subDiv{
+    margin: 1rem;
+}
